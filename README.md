@@ -10,4 +10,4 @@ Factors = number of known underlying latent variables
 Groups = number of known groups
 
 Filename is setup as follows:
-sims_(Dimension)_(Factors)_(Groups).Rdata
+sims_'Dimension'_'Factors'_'Groups'.Rdata
